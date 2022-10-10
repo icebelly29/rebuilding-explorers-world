@@ -12,7 +12,7 @@ Welcome to the Explorer's world, Here we are trying to rebuild the previously bu
 
 ## Project Description
 
-We are working on replicating the existing [Explorer's World](https://explorersworlddok.gtsb.io/). Previously, the repository was using [next.js](nextjs.org/). We are migrating to Astro to allow more flexibility.
+We are working on replicating the existing [Explorer's World](https://explorersworlddok.gtsb.io/). Previously, the repository was using [next.js](https://nextjs.org/). We are migrating to Astro to allow more flexibility.
 
 ### Reasons why we are using Astro
 - We become framework agnostic
@@ -50,7 +50,6 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into As
 
 Check out the [DoK Slack channel](https://dokcommunity.slack.com/archives/C029SP0H937) for updates and discussion. 
 Checkout out the [Dok YouTube channel](https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ) for more information, talks, discussions, and raps!!!
-And sign up to the update [newsletter](https://docs.google.com/forms/d/e/1FAIpQLSeNTRsesRA7-1uMyFeHMMqfG9IgdVd7soY_L4wx5WqeDUcMjA/viewform) to be able to join the bi-weekly progress calls!
 
 ### Contributors
 
