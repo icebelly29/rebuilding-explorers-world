@@ -1,5 +1,7 @@
 # New Pull Request
 
+## SOLVES ISSUE #
+
 - **:pencil: What kind of change does this PR introduce?** (Bug fix, feature, docs update, ...)
 
 - **:pencil: What is the current behavior?** (You can also link to an open issue here)
