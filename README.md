@@ -77,6 +77,13 @@ Checkout out the [Dok YouTube channel](https://www.youtube.com/channel/UCUnXJbHQ
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/trybick>
+            <img src=https://avatars.githubusercontent.com/u/39889198?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Tim Rybicki/>
+            <br />
+            <sub style="font-size:14px"><b>Tim Rybicki</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/vaibhavTekk>
             <img src=https://avatars.githubusercontent.com/u/59783171?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Vaibhav Tekkalur/>
             <br />
